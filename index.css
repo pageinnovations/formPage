@@ -499,7 +499,7 @@ a.register-link:hover {
 
 }
 
- @media screen and (max-width:389px) {
+ @media screen and (max-width:450px) {
 
     .hero-body-content h1{
     font-size:17px;
@@ -572,10 +572,11 @@ a.register-link:hover {
 
 
 .footer p{
-    font-size: 10px;
+    font-size: 8px;
     width: 100%;
 
 }
+
 } 
 
 @media screen and (max-width:321px) {
