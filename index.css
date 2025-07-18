@@ -572,10 +572,11 @@ a.register-link:hover {
 
 
 .footer p{
-    font-size: 10px;
+    font-size: 8px;
     width: 100%;
 
 }
+
 } 
 
 @media screen and (max-width:321px) {
